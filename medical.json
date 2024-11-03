@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "Kiowa District Hospital",
+    "address": "1002 South 4th Street",
+    "city": "Kiowa",
+    "state": "KS",
+    "lat": 37.015142,
+    "long": -98.483599
+  },
+  {
+    "name": "Kansas Medical Center",
+    "address": "1124 West 21st Street",
+    "city": "Andover",
+    "state": "KS",
+    "lat": 37.72436142,
+    "long": -97.14735413
+  },
+  {
+    "name": "Wamego Health Center",
+    "address": "711 Genn Drive",
+    "city": "Wamego",
+    "state": "KS",
+    "lat": 39.20491896,
+    "long": -96.31908603
+  },
+  {
+    "name": "South Central Kansas Medical Center",
+    "address": "6401 Patterson Parkway",
+    "city": "Arkansas City",
+    "state": "KS",
+    "lat": 37.13304463,
+    "long": -97.03864245
+  },
+  {
+    "name": "Dwight D Eisenhower Veterans Affairs Medical Center",
+    "address": "4101 South 4th Street Trafficway",
+    "city": "Leavenworth",
+    "state": "KS",
+    "lat": 39.282413,
+    "long": -94.89659297
+  },
+  {
+    "name": "Russell Regional Hospital",
+    "address": "200 South Main Street",
+    "city": "Russell",
+    "state": "KS",
+    "lat": 38.88266076,
+    "long": -98.85957509
+  },
+  {
+    "name": "Saint Catherine Hospital",
+    "address": "401 East Spruce Street",
+    "city": "Garden City",
+    "state": "KS",
+    "lat": 37.96977234,
+    "long": -100.8685684
+  },
+  {
+    "name": "Menorah Medical Center",
+    "address": "5721 West 119th Street",
+    "city": "Overland Park",
+    "state": "KS",
+    "lat": 38.91054,
+    "long": -94.65205
+  },
+  {
+    "name": "Kansas City Orthopaedic Institute",
+    "address": "3651 College Boulevard",
+    "city": "Leawood",
+    "state": "KS",
+    "lat": 38.92668152,
+    "long": -94.62825775
+  },
+  {
+    "name": "Pratt Regional Medical Center",
+    "address": "200 Commodore Street",
+    "city": "Pratt",
+    "state": "KS",
+    "lat": 37.644589,
+    "long": -98.729204
+  },
+  {
+    "name": "Grisell Memorial Hospital",
+    "address": "210 South Vermont Avenue",
+    "city": "Ransom",
+    "state": "KS",
+    "lat": 38.63599,
+    "long": -99.931129
+  },
+  {
+    "name": "Coffey County Hospital",
+    "address": "801 North 4th Street",
+    "city": "Burlington",
+    "state": "KS",
+    "lat": 38.202296,
+    "long": -95.737674
+  },
+  {
+    "name": "Jewell County Hospital",
+    "address": "100 Crestvue Avenue",
+    "city": "Mankato",
+    "state": "KS",
+    "lat": 39.78635025,
+    "long": -98.19989014
+  },
+  {
+    "name": "F W Huston Medical Center",
+    "address": "408 Delaware Street",
+    "city": "Winchester",
+    "state": "KS",
+    "lat": 39.325957,
+    "long": -95.270133
+  },
+  {
+    "name": "Olathe Medical Center",
+    "address": "20333 West 151st Street",
+    "city": "Olathe",
+    "state": "KS",
+    "lat": 38.85241318,
+    "long": -94.82288361
+  },
+  {
+    "name": "Kingman Healthcare Center",
+    "address": "750 West D Avenue",
+    "city": "Kingman",
+    "state": "KS",
+    "lat": 37.647625,
+    "long": -98.123314
+  },
+  {
+    "name": "Mercy Hospital - Columbus",
+    "address": "220 North Pennsylvania Street",
+    "city": "Columbus",
+    "state": "KS",
+    "lat": 37.172612,
+    "long": -94.843254
+  },
+  {
+    "name": "Hodgeman County Health Center",
+    "address": "809 West Bramley Street",
+    "city": "Jetmore",
+    "state": "KS",
+    "lat": 38.08330815,
+    "long": -99.90331382
+  },
+  {
+    "name": "Mercy Hospital",
+    "address": "218 East Pack Street",
+    "city": "Moundridge",
+    "state": "KS",
+    "lat": 38.20531408,
+    "long": -97.51695244
+  },
+  {
+    "name": "Ellinwood District Hospital",
+    "address": "605 North Main Street",
+    "city": "Ellinwood",
+    "state": "KS",
+    "lat": 38.360351,
+    "long": -98.580591
+  },
+  {
+    "name": "Osborne County Memorial Hospital",
+    "address": "237 West Harrison Street",
+    "city": "Osborne",
+    "state": "KS",
+    "lat": 39.450494,
+    "long": -98.698661
+  },
+  {
+    "name": "Herington Hospital",
+    "address": "100 East Helen Street",
+    "city": "Herington",
+    "state": "KS",
+    "lat": 38.68009,
+    "long": -96.942201
+  },
+  {
+    "name": "Providence Medical Center",
+    "address": "8929 Parallel Parkway",
+    "city": "Kansas City",
+    "state": "KS",
+    "lat": 39.126744,
+    "long": -94.786745
+  },
+  {
+    "name": "Rawlins County Health Center",
+    "address": "707 Grant Street",
+    "city": "Atwood",
+    "state": "KS",
+    "lat": 39.81393864,
+    "long": -101.0384359
+  },
+  {
+    "name": "Clara Barton Hospital",
+    "address": "250 West 9th Street",
+    "city": "Hoisington",
+    "state": "KS",
+    "lat": 38.52246475,
+    "long": -98.77858734
+  },
+  {
+    "name": "Clay County Medical Center",
+    "address": "617 Liberty Street",
+    "city": "Clay Center",
+    "state": "KS",
+    "lat": 39.39219582,
+    "long": -97.12366288
+  },
+  {
+    "name": "Kansas Rehabilitation Hospital",
+    "address": "1504 Southwest 8th Avenue",
+    "city": "Topeka",
+    "state": "KS",
+    "lat": 39.05499268,
+    "long": -95.69476318
+  },
+  {
+    "name": "Anthony Medical Center",
+    "address": "1101 East Spring Street",
+    "city": "Anthony",
+    "state": "KS",
+    "lat": 37.15494,
+    "long": -98.017345
+  },
+  {
+    "name": "Memorial Health System",
+    "address": "511 Northeast 10th Street",
+    "city": "Abilene",
+    "state": "KS",
+    "lat": 38.92535842,
+    "long": -97.20564192
+  },
+  {
+    "name": "Goodland Regional Medical Center",
+    "address": "220 West 2nd Street",
+    "city": "Goodland",
+    "state": "KS",
+    "lat": 39.358885,
+    "long": -101.714619
+  },
+  {
+    "name": "McPherson Hospital",
+    "address": "1000 Hospital Drive",
+    "city": "McPherson",
+    "state": "KS",
+    "lat": 38.37892461,
+    "long": -97.67061889
+  },
+  {
+    "name": "Graham County Hospital",
+    "address": "304 West Prout Street",
+    "city": "Hill City",
+    "state": "KS",
+    "lat": 39.372151,
+    "long": -99.844935
+  },
+  {
+    "name": "Satanta District Hospital",
+    "address": "401 Cheyenne Avenue",
+    "city": "Satanta",
+    "state": "KS",
+    "lat": 37.437084,
+    "long": -100.986595
+  },
+  {
+    "name": "Coffeyville Regional Medical Center",
+    "address": "1400 West 4th Street",
+    "city": "Coffeyville",
+    "state": "KS",
+    "lat": 37.04102707,
+    "long": -95.63934326
+  },
+  {
+    "name": "Republic County Hospital",
+    "address": "2420 G Street",
+    "city": "Belleville",
+    "state": "KS",
+    "lat": 39.817307,
+    "long": -97.637344
+  },
+  {
+    "name": "Ransom Memorial Hospital",
+    "address": "1301 South Main Street",
+    "city": "Ottawa",
+    "state": "KS",
+    "lat": 38.59632492,
+    "long": -95.26760101
+  },
+  {
+    "name": "The University of Kansas Health System Saint Francis Campus",
+    "address": "1700 Southwest 7th Street",
+    "city": "Topeka",
+    "state": "KS",
+    "lat": 39.056409,
+    "long": -95.696014
+  },
+  {
+    "name": "Overland Park Regional Medical Center",
+    "address": "10500 Quivira Road",
+    "city": "Overland Park",
+    "state": "KS",
+    "lat": 38.937445,
+    "long": -94.726288
+  },
+  {
+    "name": "Kansas Heart Hospital",
+    "address": "3601 North Webb Road",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.7500611,
+    "long": -97.22751261
+  },
+  {
+    "name": "Morris County Hospital",
+    "address": "600 North Washington Street",
+    "city": "Council Grove",
+    "state": "KS",
+    "lat": 38.665825,
+    "long": -96.499415
+  },
+  {
+    "name": "Girard Medical Center",
+    "address": "302 North Hospital Drive",
+    "city": "Girard",
+    "state": "KS",
+    "lat": 37.514646,
+    "long": -94.857906
+  },
+  {
+    "name": "Ascension Via Christi Rehabilitation Hospital",
+    "address": "1151 North Rock Road",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.703858,
+    "long": -97.246064
+  },
+  {
+    "name": "Ascension Via Christi Saint Francis Hospital",
+    "address": "929 North Saint Francis Street",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.699958,
+    "long": -97.332324
+  },
+  {
+    "name": "Rice County District Hospital",
+    "address": "619 South Clark Avenue",
+    "city": "Lyons",
+    "state": "KS",
+    "lat": 38.34142265,
+    "long": -98.2166335
+  },
+  {
+    "name": "Comanche County Hospital",
+    "address": "202 South Frisco Street",
+    "city": "Coldwater",
+    "state": "KS",
+    "lat": 37.268073,
+    "long": -99.332711
+  },
+  {
+    "name": "Saint John Hospital",
+    "address": "3500 South 4th Street",
+    "city": "Leavenworth",
+    "state": "KS",
+    "lat": 39.28200916,
+    "long": -94.90590385
+  },
+  {
+    "name": "Ness County Hospital",
+    "address": "312 Custer Street",
+    "city": "Ness City",
+    "state": "KS",
+    "lat": 38.45828731,
+    "long": -99.9016272
+  },
+  {
+    "name": "Heartland Surgical Specialty Hospital",
+    "address": "10720 Nall Avenue",
+    "city": "Overland Park",
+    "state": "KS",
+    "lat": 38.93297495,
+    "long": -94.65197844
+  },
+  {
+    "name": "Centura - Bob Wilson Memorial Hospital",
+    "address": "415 North Main Street",
+    "city": "Ulysses",
+    "state": "KS",
+    "lat": 37.58462445,
+    "long": -101.3587046
+  },
+  {
+    "name": "Salina Surgical Hospital",
+    "address": "401 South Sante Fe Avenue",
+    "city": "Salina",
+    "state": "KS",
+    "lat": 38.83372812,
+    "long": -97.60846135
+  },
+  {
+    "name": "Rush County Memorial Hospital",
+    "address": "801 Locust Street",
+    "city": "La Crosse",
+    "state": "KS",
+    "lat": 38.530584,
+    "long": -99.317021
+  },
+  {
+    "name": "Salina Regional Health Center",
+    "address": "400 South Santa Fe Avenue",
+    "city": "Salina",
+    "state": "KS",
+    "lat": 38.83350372,
+    "long": -97.6102829
+  },
+  {
+    "name": "Southwest Medical Center",
+    "address": "315 West 15th Street",
+    "city": "Liberal",
+    "state": "KS",
+    "lat": 37.056182,
+    "long": -100.926783
+  },
+  {
+    "name": "Children's Mercy Hospital Kansas",
+    "address": "5808 West 110th Street",
+    "city": "Overland Park",
+    "state": "KS",
+    "lat": 38.92974028,
+    "long": -94.65293258
+  },
+  {
+    "name": "Morton County Hospital",
+    "address": "445 Hilltop Street",
+    "city": "Elkhart",
+    "state": "KS",
+    "lat": 37.00197,
+    "long": -101.905366
+  },
+  {
+    "name": "Neosho Memorial Regional Medical Center",
+    "address": "629 South Plummer Avenue",
+    "city": "Chanute",
+    "state": "KS",
+    "lat": 37.67523575,
+    "long": -95.47209167
+  },
+  {
+    "name": "Robert J Dole Veterans Affairs Medical Center",
+    "address": "5500 East Kellogg Avenue",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.68131366,
+    "long": -97.27477097
+  },
+  {
+    "name": "Mitchell County Hospital Health Systems",
+    "address": "400 West 8th Street",
+    "city": "Beloit",
+    "state": "KS",
+    "lat": 39.46728,
+    "long": -98.114385
+  },
+  {
+    "name": "Via Christie Hospital",
+    "address": "1823 College Avenue",
+    "city": "Manhattan",
+    "state": "KS",
+    "lat": 39.20131683,
+    "long": -96.59915161
+  },
+  {
+    "name": "Ottawa County Health Center",
+    "address": "215 East 8th Street",
+    "city": "Minneapolis",
+    "state": "KS",
+    "lat": 39.12959002,
+    "long": -97.70364229
+  },
+  {
+    "name": "The Institute for Advanced Bariatric Surgery",
+    "address": "11217 Lakeview Avenue",
+    "city": "Lenexa",
+    "state": "KS",
+    "lat": 38.92442394,
+    "long": -94.76900947
+  },
+  {
+    "name": "Wilson Medical Center",
+    "address": "2600 Ottawa Road",
+    "city": "Neodesha",
+    "state": "KS",
+    "lat": 37.409622,
+    "long": -95.708384
+  },
+  {
+    "name": "Kansas Surgery and Recovery Center",
+    "address": "2770 North Webb Road",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.7331013,
+    "long": -97.22508754
+  },
+  {
+    "name": "Atchison Hospital",
+    "address": "800 Raven Hill Drive",
+    "city": "Atchison",
+    "state": "KS",
+    "lat": 39.53617096,
+    "long": -95.12854767
+  },
+  {
+    "name": "Rooks County Health Center",
+    "address": "1210 North Washington Street",
+    "city": "Plainville",
+    "state": "KS",
+    "lat": 39.24757178,
+    "long": -99.29650959
+  },
+  {
+    "name": "Geary Community Hospital",
+    "address": "1102 Saint Marys Road",
+    "city": "Junction City",
+    "state": "KS",
+    "lat": 39.01398468,
+    "long": -96.85095215
+  },
+  {
+    "name": "Fredonia Regional Hospital",
+    "address": "1527 Madison Street",
+    "city": "Fredonia",
+    "state": "KS",
+    "lat": 37.53423354,
+    "long": -95.81408501
+  },
+  {
+    "name": "Community Healthcare System - Onaga",
+    "address": "120 West 8th Street",
+    "city": "Onaga",
+    "state": "KS",
+    "lat": 39.49594498,
+    "long": -96.17160797
+  },
+  {
+    "name": "Logan County Hospital",
+    "address": "211 Cherry Avenue",
+    "city": "Oakley",
+    "state": "KS",
+    "lat": 39.12714736,
+    "long": -100.8628929
+  },
+  {
+    "name": "Scott County Hospital",
+    "address": "201 Albert Avenue",
+    "city": "Scott City",
+    "state": "KS",
+    "lat": 38.46699524,
+    "long": -100.903717
+  },
+  {
+    "name": "Hamilton County Hospital",
+    "address": "700 North Huser Street",
+    "city": "Syracuse",
+    "state": "KS",
+    "lat": 37.984743,
+    "long": -101.742408
+  },
+  {
+    "name": "Via Christi Hospital Saint Joseph",
+    "address": "3600 East Harry Street",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.66614151,
+    "long": -97.29310608
+  },
+  {
+    "name": "MidAmerica Rehabilitation Hospital",
+    "address": "5701 West 110th Street",
+    "city": "Overland Park",
+    "state": "KS",
+    "lat": 38.928924,
+    "long": -94.651357
+  },
+  {
+    "name": "Kearny County Hospital",
+    "address": "500 East Thorpe Street",
+    "city": "Lakin",
+    "state": "KS",
+    "lat": 37.946706,
+    "long": -101.251671
+  },
+  {
+    "name": "Saint Luke's South Hospital",
+    "address": "12300 Metcalf Avenue",
+    "city": "Overland Park",
+    "state": "KS",
+    "lat": 38.90397522,
+    "long": -94.66896415
+  },
+  {
+    "name": "Shawnee Mission Medical Center",
+    "address": "9100 West 74th Street",
+    "city": "Merriam",
+    "state": "KS",
+    "lat": 38.995662,
+    "long": -94.691266
+  },
+  {
+    "name": "Decatur Health Systems Hospital",
+    "address": "810 West Columbia Street",
+    "city": "Oberlin",
+    "state": "KS",
+    "lat": 39.81580032,
+    "long": -100.5383989
+  },
+  {
+    "name": "Miami County Medical Center",
+    "address": "2100 Baptiste Drive",
+    "city": "Paola",
+    "state": "KS",
+    "lat": 38.5692749,
+    "long": -94.84909821
+  },
+  {
+    "name": "Hillsboro Community Hospital",
+    "address": "101 Industrial Road",
+    "city": "Hillsboro",
+    "state": "KS",
+    "lat": 38.3618702,
+    "long": -97.18872781
+  },
+  {
+    "name": "Wesley Medical Center",
+    "address": "550 North Hillside Street",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.69524376,
+    "long": -97.29818612
+  },
+  {
+    "name": "Washington County Hospital",
+    "address": "304 East 3rd Street",
+    "city": "Washington",
+    "state": "KS",
+    "lat": 39.818127,
+    "long": -97.045866
+  },
+  {
+    "name": "Norton County Hospital",
+    "address": "102 East Holme Street",
+    "city": "Norton",
+    "state": "KS",
+    "lat": 39.83796108,
+    "long": -99.88810837
+  },
+  {
+    "name": "Saint Luke Hospital",
+    "address": "535 South Freeborn Street",
+    "city": "Marion",
+    "state": "KS",
+    "lat": 38.34284689,
+    "long": -97.01036084
+  },
+  {
+    "name": "Greeley County Hospital",
+    "address": "506 3rd Street",
+    "city": "Tribune",
+    "state": "KS",
+    "lat": 38.470388,
+    "long": -101.749406
+  },
+  {
+    "name": "Susan B Allen Memorial Hospital",
+    "address": "720 West Central Avenue",
+    "city": "El Dorado",
+    "state": "KS",
+    "lat": 37.81842422,
+    "long": -96.85852814
+  },
+  {
+    "name": "Cheyenne County Hospital",
+    "address": "210 West 1st Street",
+    "city": "Saint Francis",
+    "state": "KS",
+    "lat": 39.771336,
+    "long": -101.803352
+  },
+  {
+    "name": "Phillips County Hospital",
+    "address": "1150 State Street",
+    "city": "Phillipsburg",
+    "state": "KS",
+    "lat": 39.7552798,
+    "long": -99.31366944
+  },
+  {
+    "name": "Community Memorial Healthcare Hospital",
+    "address": "708 North 18th Street",
+    "city": "Marysville",
+    "state": "KS",
+    "lat": 39.848579,
+    "long": -96.635429
+  },
+  {
+    "name": "Meadowbrook Rehabilitation Hospital",
+    "address": "427 West Main Street",
+    "city": "Gardner",
+    "state": "KS",
+    "lat": 38.81003952,
+    "long": -94.9377594
+  },
+  {
+    "name": "Trego County - Lemke Memorial Hospital",
+    "address": "320 North 13th Street",
+    "city": "WaKeeney",
+    "state": "KS",
+    "lat": 39.027804,
+    "long": -99.871048
+  },
+  {
+    "name": "Colmery - O'Neil Veterans Affairs Medical Center",
+    "address": "2200 Southwest Gage Boulevard",
+    "city": "Topeka",
+    "state": "KS",
+    "lat": 39.02617,
+    "long": -95.7228
+  },
+  {
+    "name": "Wesley Woodlawn Hospital",
+    "address": "2610 North Woodlawn Street",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.731246,
+    "long": -97.260669
+  },
+  {
+    "name": "Newman Regional Health",
+    "address": "1201 West 12th Avenue",
+    "city": "Emporia",
+    "state": "KS",
+    "lat": 38.41156707,
+    "long": -96.19552191
+  },
+  {
+    "name": "Lane County Hospital",
+    "address": "235 West Vine Street",
+    "city": "Dighton",
+    "state": "KS",
+    "lat": 38.480167,
+    "long": -100.46917
+  },
+  {
+    "name": "Ellsworth County Medical Center",
+    "address": "1604 Aylward Avenue",
+    "city": "Ellsworth",
+    "state": "KS",
+    "lat": 38.742705,
+    "long": -98.21973
+  },
+  {
+    "name": "Ashland Health Center",
+    "address": "625 Kentucky Street",
+    "city": "Ashland",
+    "state": "KS",
+    "lat": 37.19018569,
+    "long": -99.77994574
+  },
+  {
+    "name": "Smith County Memorial Hospital",
+    "address": "921 East US Highway 36",
+    "city": "Smith Center",
+    "state": "KS",
+    "lat": 39.7834188,
+    "long": -98.77191784
+  },
+  {
+    "name": "Citizens Medical Center",
+    "address": "100 East College Drive",
+    "city": "Colby",
+    "state": "KS",
+    "lat": 39.37868881,
+    "long": -101.0443954
+  },
+  {
+    "name": "Minneola District Hospital",
+    "address": "212 South Main Street",
+    "city": "Minneola",
+    "state": "KS",
+    "lat": 37.441532,
+    "long": -100.013046
+  },
+  {
+    "name": "Lindsborg Community Hospital",
+    "address": "605 West Lincoln Street",
+    "city": "Lindsborg",
+    "state": "KS",
+    "lat": 38.572884,
+    "long": -97.683441
+  },
+  {
+    "name": "Sheridan County Health Complex",
+    "address": "826 18th Street",
+    "city": "Hoxie",
+    "state": "KS",
+    "lat": 39.354395,
+    "long": -100.431739
+  },
+  {
+    "name": "Hiawatha Community Hospital",
+    "address": "300 Utah Street",
+    "city": "Hiawatha",
+    "state": "KS",
+    "lat": 39.852452,
+    "long": -95.530786
+  },
+  {
+    "name": "Allen County Regional Hospital",
+    "address": "3066 North Kentucky Street",
+    "city": "Iola",
+    "state": "KS",
+    "lat": 37.948788,
+    "long": -95.392143
+  },
+  {
+    "name": "Edwards County Medical Center",
+    "address": "620 West 8th Street",
+    "city": "Kinsley",
+    "state": "KS",
+    "lat": 37.921227,
+    "long": -99.420114
+  },
+  {
+    "name": "Greenwood County Hospital",
+    "address": "100 West 16th Street",
+    "city": "Eureka",
+    "state": "KS",
+    "lat": 37.835659,
+    "long": -96.293618
+  },
+  {
+    "name": "Kansas Spine and Specialty Hospital",
+    "address": "3333 North Webb Road",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.743545,
+    "long": -97.227329
+  },
+  {
+    "name": "Stevens County Hospital",
+    "address": "1006 South Jackson Street",
+    "city": "Hugoton",
+    "state": "KS",
+    "lat": 37.171247,
+    "long": -101.349275
+  },
+  {
+    "name": "Hays Medical Center",
+    "address": "2220 Canterbury Drive",
+    "city": "Hays",
+    "state": "KS",
+    "lat": 38.88058472,
+    "long": -99.29624939
+  },
+  {
+    "name": "Gove County Medical Center",
+    "address": "520 West 5th Street",
+    "city": "Quinter",
+    "state": "KS",
+    "lat": 39.06756364,
+    "long": -100.2406418
+  },
+  {
+    "name": "Sumner County Hospital",
+    "address": "601 South Osage Street",
+    "city": "Caldwell",
+    "state": "KS",
+    "lat": 37.02618027,
+    "long": -97.61022949
+  },
+  {
+    "name": "Meade District Hospital",
+    "address": "510 East Carthage Street",
+    "city": "Meade",
+    "state": "KS",
+    "lat": 37.28661,
+    "long": -100.33403
+  },
+  {
+    "name": "Doctors Hospital",
+    "address": "4901 College Boulevard",
+    "city": "Leawood",
+    "state": "KS",
+    "lat": 38.92705917,
+    "long": -94.64372253
+  },
+  {
+    "name": "Stormont Vail Hospital",
+    "address": "1500 Southwest 10th Avenue",
+    "city": "Topeka",
+    "state": "KS",
+    "lat": 39.05205536,
+    "long": -95.69641876
+  },
+  {
+    "name": "Western Plains Medical Complex",
+    "address": "3001 Avenue A",
+    "city": "Dodge City",
+    "state": "KS",
+    "lat": 37.786278,
+    "long": -100.017365
+  },
+  {
+    "name": "Anderson County Hospital",
+    "address": "421 South Maple Street",
+    "city": "Garnett",
+    "state": "KS",
+    "lat": 38.2796842,
+    "long": -95.25163075
+  },
+  {
+    "name": "Lincoln County Hospital",
+    "address": "624 North 2nd Street",
+    "city": "Lincoln",
+    "state": "KS",
+    "lat": 39.04541516,
+    "long": -98.14401805
+  },
+  {
+    "name": "University of Kansas Medical Center",
+    "address": "3901 Rainbow Boulevard",
+    "city": "Kansas City",
+    "state": "KS",
+    "lat": 39.05586336,
+    "long": -94.60922602
+  },
+  {
+    "name": "Via Christi Hospital",
+    "address": "1 Mount Carmel Way",
+    "city": "Pittsburg",
+    "state": "KS",
+    "lat": 37.38032865,
+    "long": -94.68405426
+  },
+  {
+    "name": "Lawrence Memorial Hospital",
+    "address": "325 Maine Street",
+    "city": "Lawrence",
+    "state": "KS",
+    "lat": 38.97890091,
+    "long": -95.24851227
+  },
+  {
+    "name": "William Newton Hospital",
+    "address": "1300 East 5th Avenue",
+    "city": "Winfield",
+    "state": "KS",
+    "lat": 37.24521637,
+    "long": -96.98200226
+  },
+  {
+    "name": "Holton Community Hospital",
+    "address": "1110 Columbine Drive",
+    "city": "Holton",
+    "state": "KS",
+    "lat": 39.48008,
+    "long": -95.75168
+  },
+  {
+    "name": "Cloud County Health Center",
+    "address": "1100 Highland Drive",
+    "city": "Concordia",
+    "state": "KS",
+    "lat": 39.56542206,
+    "long": -97.67359924
+  },
+  {
+    "name": "Mercy Hospital - Fort Scott",
+    "address": "401 Woodland Hills Boulevard",
+    "city": "Fort Scott",
+    "state": "KS",
+    "lat": 37.80610657,
+    "long": -94.71134186
+  },
+  {
+    "name": "Harper Hospital District Five",
+    "address": "700 West 13th Street",
+    "city": "Harper",
+    "state": "KS",
+    "lat": 37.28437805,
+    "long": -98.03343201
+  },
+  {
+    "name": "Stafford County Hospital",
+    "address": "502 South Buckeye Street",
+    "city": "Stafford",
+    "state": "KS",
+    "lat": 37.956659,
+    "long": -98.595474
+  },
+  {
+    "name": "Newton Medical Center",
+    "address": "600 Medical Center Drive",
+    "city": "Newton",
+    "state": "KS",
+    "lat": 38.02418,
+    "long": -97.333196
+  },
+  {
+    "name": "Sedan City Hospital",
+    "address": "300 North Street",
+    "city": "Sedan",
+    "state": "KS",
+    "lat": 37.133921,
+    "long": -96.188947
+  },
+  {
+    "name": "Wesley Rehabilitation Hospital",
+    "address": "8338 West 13th Street North",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.70962143,
+    "long": -97.43890381
+  },
+  {
+    "name": "Nemaha Valley Community Hospital",
+    "address": "1600 Community Drive",
+    "city": "Seneca",
+    "state": "KS",
+    "lat": 39.837085,
+    "long": -96.078118
+  },
+  {
+    "name": "Sabetha Community Hospital",
+    "address": "603 North 14th Street",
+    "city": "Sabetha",
+    "state": "KS",
+    "lat": 39.89891754,
+    "long": -95.80810369
+  },
+  {
+    "name": "Stanton County Hospital",
+    "address": "404 North Chestnut Street",
+    "city": "Johnson",
+    "state": "KS",
+    "lat": 37.57408847,
+    "long": -101.7500916
+  },
+  {
+    "name": "Hanover Hospital",
+    "address": "205 South Hanover Street",
+    "city": "Hanover",
+    "state": "KS",
+    "lat": 39.89108126,
+    "long": -96.87521516
+  },
+  {
+    "name": "Via Christi Clinic",
+    "address": "1105 Sunset Avenue",
+    "city": "Manhattan",
+    "state": "KS",
+    "lat": 39.19181061,
+    "long": -96.59021759
+  },
+  {
+    "name": "Ascension Via Christi Behavioral Health Center",
+    "address": "3600 East Harry Street",
+    "city": "Wichita",
+    "state": "KS",
+    "lat": 37.66583047,
+    "long": -97.2926149
+  },
+  {
+    "name": "Great Bend Regional Hospital",
+    "address": "514 Cleveland Street",
+    "city": "Great Bend",
+    "state": "KS",
+    "lat": 38.35638046,
+    "long": -98.79046631
+  },
+  {
+    "name": "Hutchinson Regional Medical Center",
+    "address": "1701 East 23rd Avenue",
+    "city": "Hutchinson",
+    "state": "KS",
+    "lat": 38.077457,
+    "long": -97.892039
+  },
+  {
+    "name": "Shawnee Mission Health - Prairie Star",
+    "address": "23401 Prairie Star Pkwy",
+    "city": "Lenexa",
+    "state": "KS",
+    "lat": 38.95481744,
+    "long": -94.85685579
+  },
+  {
+    "name": "Labette Health Hospital",
+    "address": "1902 South US Highway 59",
+    "city": "Parsons",
+    "state": "KS",
+    "lat": 37.32110505,
+    "long": -95.26454311
+  },
+  {
+    "name": "Medicine Lodge Memorial Hospital",
+    "address": "710 North Walnut Street",
+    "city": "Medicine Lodge",
+    "state": "KS",
+    "lat": 37.28941875,
+    "long": -98.57734261
+  },
+  {
+    "name": "Irwin Army Community Hospital",
+    "address": "650 Huebner Road",
+    "city": "Fort Riley",
+    "state": "KS",
+    "lat": 39.083291,
+    "long": -96.768319
+  },
+  {
+    "name": "Prairie View Inpatient Psychiatric Hospital",
+    "address": "1901 East 1st Street",
+    "city": "Newton",
+    "state": "KS",
+    "lat": 38.04142885,
+    "long": -97.31370927
+  },
+  {
+    "name": "Kiowa County Memorial Hospital",
+    "address": "721 West Kansas Avenue",
+    "city": "Greensburg",
+    "state": "KS",
+    "lat": 37.605571,
+    "long": -99.301509
+  },
+  {
+    "name": "Larned State Hospital",
+    "address": "1301 State Highway 264",
+    "city": "Larned",
+    "state": "KS",
+    "lat": 38.17150013,
+    "long": -99.15093038
+  }
+]
