@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Lost Souls</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <style>
+    /* Main container with a flex layout */
+    body {
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      height: 100vh; /* Full viewport height */
+    }
+
+    /* Header styling */
+    #header {
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #2C688C;
+      color: #fff;
+    }
+
+    /* Header title styling */
+    #header h1 {
+      margin: 0;
+      font-size: 1.6em;
+    }
+
+    /* Main content layout */
+    #content {
+      display: flex;
+      flex-grow: 1;
+      height: calc(100vh - 50px); /* Adjusted for header height */
+    }
+
+    /* Left sidebar styling */
+    #sidebar-left {
+      width: 18%; /* Width of the left sidebar */
+      padding: 15px;
+      overflow-y: auto;
+      background-color: white;
+      border-right: 1px solid #ddd;
+      display: flex;
+      flex-direction: column;
+      color: #338DB9;
+    }
+
+    /* Sidebar title styling */
+    #sidebar-left h2,
+    #sidebar-right h2 {
+      font-size: 1.2em;
+      color: #338DB9;
+      margin: 0 0 10px 0;
+      text-align: left;
+    }
+
+    /* Buttons and dropdown styling in left sidebar */
+    #resetZoom, #countySelect {
+      width: 100%;
+      padding: 8px;
+      font-size: 1em;
+      margin-top: 10px;
+      text-align: left;
+      color: rgb(57, 57, 57);
+    }
+
+    /* Map container styling */
+    #map {
+      width: 65%; /* Width of the map */
+      height: 100%;
+    }
+
+    /* Right sidebar styling */
+    #sidebar-right {
+      width: 22%; /* Width of the right sidebar */
+      padding: 15px;
+      overflow-y: auto;
+      background-color: white;
+      border-left: 1px solid #ddd;
+      color: #338DB9;
+    }
+
+    /* Dynamic content styling in right sidebar */
+    #locationInfo {
+      font-size: 0.95em;
+      color: #5f5e5e;
+    }
+  </style>
+
+  <!-- Link to external CSS for additional styles -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+
+<body>
+
+  <!-- Header with title only -->
+  <div id="header">
+    <h1>Lost Souls: Mapping the Haunted Connections</h1>
+  </div>
+
+  <!-- Main content area with left sidebar, map, and right sidebar -->
+  <div id="content">
+    <!-- Left sidebar with title, reset zoom button, and dropdown -->
+    <div id="sidebar-left">
+      <h2></h2>
+      <button id="resetZoom">Reset Zoom</button>
+      <select id="countySelect">
+        <option value="">Choose a county</option>
+        <!-- Options populated by JavaScript -->
+      </select>
+
+      <!-- Overview content -->
+      <h1 style="font-size: 1.2em; ">Overview</h1>
+      <h3 style="font-size: 1em; font-weight: normal;">This map illustrates the relationship between haunted places in Kansas and nearby historic sites, cemeteries, hospitals, and population density, providing insight into potential connections among these locations.</h3>
+      <ul style="font-size: 0.9em; color: #5f5e5e;">
+        <li>The Haunted Places layer highlights locations reported to be "spoooooky."</li>
+        <li>The Historic Sites layer shows historically significant locations in Kansas.</li>
+        <li>The Haunted Places Heat Map highlights areas within Kansas with a high concentration of "spoooooky" locations.</li>
+        <li>The Census Demographic Map displays population densities across Kansas counties.</li>
+        <li>The Display Only Analysis Buffer presents an exaggerated visualization of a 1/4 mile buffer around haunted sites.</li>
+      </ul>
+      <style>
+        h1 {
+          margin-bottom: 5px; /* Space after summary h1 */
+        }
+        h3 {
+          margin-bottom: 10px; /* Space after h3 */
+        }
+
+        li {
+          padding-bottom: 10px; /* Adjust the pixel value as needed */
+        }
+      </style>
+    </div>
+
+    <!-- Map container -->
+    <div id="map"></div>
+
+    <!-- Right sidebar for dynamic information display -->
+    <div id="sidebar-right">
+      <h2>Nearby Hospitals and Cemeteries</h2>
+      <div id="locationInfo">Click on a haunted place to view nearby hospitals and cemeteries.</div>
+      <p></p>
+    </div>
+  </div>
+
+  <!-- Leaflet and additional plugins -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+  <!-- Include Turf.js for spatial analysis -->
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7.1.0/turf.min.js"></script>
+
+  <!-- D3.js for data handling -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  
+  <!-- Main JavaScript file -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
+
+</body>
+
+</html>
